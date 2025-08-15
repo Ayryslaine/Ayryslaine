@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Olá! Sou a Ayryslaine 👋</h1>
+  <h1>Olá! Me chamo Ayryslaine 👋</h1>
   <h3>Estudante de Data Science, focada em análise, tratamento e manipulação de dados, e Machine Learning.</h3>
 </div>
 
