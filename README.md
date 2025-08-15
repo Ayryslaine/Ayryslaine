@@ -1,5 +1,5 @@
 <h1 align="center">Olá! Sou a Ayryslaine 👋</h1>
-<h3 align="center">Estudante de Data Science em João Pessoa, Paraíba.</h3>
+<h3 align="center">Estudante de Data Science com foco em análise, tratamento e manipulação de dados, e machine learning.</h3>
 
 ###
 
@@ -28,8 +28,8 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href= "mailto:Ayryslaineleal@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"/>
+  <a href= "www.linkedin.com/in/ayryslaine-kelle-de-nézio-leal-616b78242"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"/></a>
 </div>
 
 ###
