@@ -7,7 +7,7 @@
 ---
 
 <div align="center">
-  <h3>Estudante de Ciência de Dados na UEPB e estagiária na área na Itecsa. Sou apaixonada por transformar dados brutos em insights inteligentes e garantir a qualidade de software através de automação e testes.</h3>
+  <h3>Estudante de Ciência de Dados na UEPB e estagiária na área de QA na Itecsa. Sou apaixonada por transformar dados brutos em insights inteligentes e garantir a qualidade de software através de automação e testes.</h3>
 </div>
 
 ---
