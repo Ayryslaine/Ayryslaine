@@ -1,6 +1,6 @@
 <img src="https://visitor-badge.laobi.icu/badge?page_id=Ayryslaine.Ayryslaine&left_color=C084FC&right_color=skyblue" alt="Visitors" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=skyblue&size=35&center=true&vCenter=true&width=1000&lines=Hello+World!)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=skyblue&size=35&center=true&vCenter=true&width=1000&lines=print("Hello+World!"))](https://git.io/typing-svg) 
 
 <table align="center">
   <tr>
